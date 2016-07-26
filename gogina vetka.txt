@@ -1,2 +1,2 @@
 print('hi skaters');
-print('zdarov vsem');
+print('zdarov vsem');jnj

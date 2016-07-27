@@ -3,3 +3,4 @@ print('Hello everybody!;')
 print('Hello Skaters!;');
 print('Hello my dear friend!;');
 print('See you;');
+print('hi freedom;');
